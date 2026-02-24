@@ -6,7 +6,7 @@ import Countdown from "./components/Countdown";
 import Details  from "./components/Details";
 import LoveStory from "./components/Lovestory";
 import Location from "./components/Location";
-import RSVP     from "./components/RSVP";
+import RSVP     from "./components/Rsvp";
 import Footer   from "./components/Footer";
 import Divider  from "./components/Divider";
 
