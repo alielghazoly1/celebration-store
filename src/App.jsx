@@ -4,7 +4,7 @@ import Navbar   from "./components/Navbar";
 import Hero     from "./components/Hero";
 import Countdown from "./components/Countdown";
 import Details  from "./components/Details";
-import LoveStory from "./components/LoveStory";
+import LoveStory from "./components/Lovestory";
 import Location from "./components/Location";
 import RSVP     from "./components/RSVP";
 import Footer   from "./components/Footer";
